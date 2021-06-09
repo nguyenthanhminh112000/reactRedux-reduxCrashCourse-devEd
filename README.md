@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Redux-Crash-Course application
+
+This is a small application that I created to learn Redux and its folder,file structure.
+
 ## Available Scripts
 
 In the project directory, you can run:
